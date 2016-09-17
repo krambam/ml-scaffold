@@ -1,0 +1,9 @@
+# generic
+.DS_Store
+
+# NPM
+node_modules
+npm-debug.log
+
+#phpstorm
+/.idea
