@@ -1,0 +1,19 @@
+{
+  "name": "ml-scaffold",
+  "version": "1.0.0",
+  "description": "Medialisk CSS scaffolding (inc. CSS normalize)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/medialisk/ml-scaffold.git"
+  },
+  "author": "Medialisk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/medialisk/ml-scaffold/issues"
+  },
+  "homepage": "https://github.com/medialisk/ml-scaffold#readme"
+}
