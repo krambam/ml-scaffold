@@ -382,6 +382,11 @@ img[src^="http://placehold.it/"] {
   display: block;
   vertical-align: middle;
 }
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
 img {
   vertical-align: middle;
 }
