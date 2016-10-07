@@ -390,6 +390,10 @@ ul {
 address {
   font-style: normal;
 }
+blockquote {
+  padding: 0;
+  margin: 0;
+}
 img {
   vertical-align: middle;
 }
