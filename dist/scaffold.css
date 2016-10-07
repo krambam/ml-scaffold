@@ -387,6 +387,9 @@ ul {
   margin: 0;
   padding: 0;
 }
+address {
+  font-style: normal;
+}
 img {
   vertical-align: middle;
 }
@@ -457,6 +460,18 @@ a,
 a:hover {
   text-decoration: none;
   transition: color 300ms;
+}
+a,
+button {
+  outline: none;
+}
+a:hover,
+button:hover,
+a:focus,
+button:focus,
+a:active,
+button:active {
+  outline: none;
 }
 table {
   width: 100%;
